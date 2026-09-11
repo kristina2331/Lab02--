@@ -1,0 +1,14 @@
+C:\Users\Student_09\Documents\Lab02-Шаповалова\bin\Debug\net10.0\Lab02-Шаповалова.exe
+C:\Users\Student_09\Documents\Lab02-Шаповалова\bin\Debug\net10.0\Lab02-Шаповалова.deps.json
+C:\Users\Student_09\Documents\Lab02-Шаповалова\bin\Debug\net10.0\Lab02-Шаповалова.runtimeconfig.json
+C:\Users\Student_09\Documents\Lab02-Шаповалова\bin\Debug\net10.0\Lab02-Шаповалова.dll
+C:\Users\Student_09\Documents\Lab02-Шаповалова\bin\Debug\net10.0\Lab02-Шаповалова.pdb
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.AssemblyInfoInputs.cache
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.AssemblyInfo.cs
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.csproj.CoreCompileInputs.cache
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.dll
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\refint\Lab02-Шаповалова.dll
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.pdb
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.genruntimeconfig.cache
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\ref\Lab02-Шаповалова.dll
