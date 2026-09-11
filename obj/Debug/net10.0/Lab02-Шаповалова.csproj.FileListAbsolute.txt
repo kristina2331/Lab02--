@@ -12,3 +12,4 @@ C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\refin
 C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.pdb
 C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.genruntimeconfig.cache
 C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\ref\Lab02-Шаповалова.dll
+C:\Users\Student_09\Documents\Lab02-Шаповалова\obj\Debug\net10.0\Lab02-Шаповалова.sourcelink.json
