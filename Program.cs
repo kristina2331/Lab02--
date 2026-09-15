@@ -35,3 +35,14 @@ decimal priceDecimal = 0.1m + 0.2m;
 
 Console.WriteLine($"double: 0.1 + 0.2 = {priceDouble}");
 Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDouble}");
+
+Console.WriteLine();
+Console.WriteLine("Ввод текста");
+
+Console.WriteLine("Кристина");
+string enteredName = Console.ReadLine();
+
+Console.Write("ИСП253");
+string enteredGroup = Console.ReadLine();
+
+Console.WriteLine($"Зравствуйте, {enteredName} из группы {enteredGroup}!");
